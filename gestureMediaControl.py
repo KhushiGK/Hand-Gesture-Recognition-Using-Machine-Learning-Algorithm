@@ -115,7 +115,7 @@ while True:
                 pg.press('right')
                 # print("right")
 
-            # if thumb folded and all fingers folded except little finger backward
+            # if thumb folded and all fingers folded except fore finger backward
             elif lst[4][1] > lst[8][1] and sum(m) == 3 and lst[8][2] < lst[6][2]:
                 pg.press('left')
                 # print("left")
