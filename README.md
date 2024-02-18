@@ -14,3 +14,6 @@ There are many benefits to using gesture recognition for media control. It provi
 The application of machine learning techniques, especially image processing and computer vision techniques, is required for the implementation of this technology. These algorithms are useful for real-time tracking the user's hand and position,and then mapping the hand's movement to a specific media control.
 
 The MediaPipe framework, which provides a pre-trained model for hand detection and tracking, is a popular tool for hand gesture recognition. With a set of hand gesture images, this model can be fine-tuned to recognize particular gestures and map them to media control functions.
+
+
+<img width="462" alt="image" src="https://github.com/KhushiGK/Hand-Gesture-Recognition-Using-Machine-Learning-Algorithm/assets/82925917/1212f81c-106d-4c33-99e7-db8f6dc28812">
